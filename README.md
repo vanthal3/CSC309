@@ -12,7 +12,7 @@ TUTORIALS - helpful links to understand core concepts
 
 
 
-DESIGN - Possible 
+DESIGN - Possible design elements wanted
 
 
 
